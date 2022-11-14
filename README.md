@@ -2,7 +2,7 @@
 🔭 Olá, sou o Tainy Souza<br>
 👯 atualmente estou estudando no Instituto PROA<br>
 🤝 Estou cursando Desenvolvimento Web Java<br>
-🌱 Tenho interesse em áreas de Back-End, como Node.js<br>
+🌱 Tenho interesse em áreas de Back-End, como Node.js e Java.<br>
 
 
 ## 🌐 Redes Sociais:
